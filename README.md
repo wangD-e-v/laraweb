@@ -1,4 +1,4 @@
-# Step1: git clone https://github.com/wangD-e-v/laraweb<br>
+# Step1: git clone https://github.com/wangD-e-v/laraweb
   Step2: cd laraweb<br>
   Step3: npm install && npm run build<br>
   Step4: composer run dev / php artisan serve<br>
